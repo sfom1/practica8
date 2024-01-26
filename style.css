@@ -9,3 +9,6 @@ table.tabla3{
     width: 30%;
     height: 30%;
 }
+td.green {
+    border: green 1px solid;
+}
